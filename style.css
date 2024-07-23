@@ -1,0 +1,14 @@
+body{ background-color: aqua;
+    padding: 50px;
+    margin: 50px;
+    text-align: center;
+}
+input{
+    text-align: center;
+    border: 300px;
+     border-radius: 10px;
+    
+}
+fieldset{
+    border-radius: 50px;
+}
